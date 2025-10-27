@@ -14,7 +14,7 @@ Trying to make sense of the packaging ecosystem and which package manager to use
 
 | Feature | Pixi | conda | pip | Poetry | uv |
 |---------|------|-------|-----|--------|----|
-|Installs Python |✅| | | | |
+|Installs Python |✅|✅ | | | |
 |Multi-language|✅|✅| | | |
 |Lock files|✅| | |✅|✅|
 |Task Runner|✅ | | | | |
